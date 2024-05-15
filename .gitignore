@@ -21,3 +21,6 @@ HELP.md
 !/.springformat
 /flightschedule/src/main/resources/application-local.yml
 /flightwatch/src/main/resources/application-local.yml
+kafka/
+ybdb/
+scripts/pscript
